@@ -1,6 +1,29 @@
-# Finance Tracker Application
+# Personal Finance Tracker & Analytics Dashboard
 
-This is a comprehensive finance tracker application developed using Java and Swing for the graphical user interface. The application allows users to manage incomes, expenses, investments, set financial goals, and generate reports. It also includes a settings menu for editing user account details and changing currency.
+Author: Srijan Sinha
+
+This project is a finance management application designed to help users track
+their income, expenses, and financial goals. The system provides insights into
+spending patterns and helps users manage personal finances efficiently.
+
+Technologies Used
+
+• Java
+• Object Oriented Programming
+• File/Data Management
+• Financial Data Tracking
+• Data Visualization Concepts
+
+
+Applications
+
+This system can be used by individuals to track financial activities
+and analyze spending behavior. Similar systems are used in financial
+technology applications to help users manage personal finances.
+
+
+
+
 
 ## Features
 
